@@ -1,0 +1,14 @@
+to use your map you must first write the type of the obstacle followed by a ':'
+and the spawn time in second and for a addition of obstacle will be need separated by a comma.
+
+But i Have just one obstacle which is 1
+
+by example: 
+
+1:4,1:5,...
+
+1 is spawn obstacle
+
+4 is spawn time in second
+
+and after comma is other spawn obstacle

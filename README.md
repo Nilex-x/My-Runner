@@ -1,6 +1,6 @@
 # Naruto Runner
 
-Naruto Runner is a platforms game
+Naruto Runner is a platforms games
 
 ## Installation
 
@@ -10,6 +10,11 @@ Use command Make for compilation a binairy
 make
 ```
 
+## Custom map
+
+For creating your custom map look file ".legend"
+
+
 ## Usage
 
 For help you can use:
@@ -17,8 +22,6 @@ For help you can use:
 ```bash
 ./my_runner -h
 ```
-
-For creating your custom map look file ".legend"
 
 For playing you can use:
 
